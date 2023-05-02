@@ -3,4 +3,4 @@ numpy==1.22.0
 scikit-learn==0.20.1
 xlrd==1.2.0
 gunicorn==19.9.0
-flask==1.0.2
+flask==2.3.2
